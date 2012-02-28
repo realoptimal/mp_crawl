@@ -1,3 +1,7 @@
+You can run this crawler by calling at the command prompt:
+python menupages_crawl.py
+
+NOTE:
 In order to run the R script you need to use write the mysql database:
 You can do this by creating a database called menupages, a filled db can be
 created using mp_setup.sql and granting a user named 'crawler' permissions
